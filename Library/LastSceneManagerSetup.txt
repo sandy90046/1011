@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/discard factory.unity
+- path: Assets/20180826.unity
   isLoaded: 1
   isActive: 1
